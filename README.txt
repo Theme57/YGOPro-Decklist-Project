@@ -11,7 +11,5 @@ Updates/log:
 
 10.01.2018
 -Project Begins
--Begin: YGO Season 1 Duel Monsters - Duelist Kingdom Arc
--z1.DM1.DK.Sugoroku/Solomon[Grandpa]
-
-Note: While the yugi faces kaiba in this duel the former uses Sugoroku/Solomon's deck to beat kaiba.
+-Begin: YGO Season 0 
+Will begin with the structure decks
