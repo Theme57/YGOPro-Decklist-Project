@@ -13,4 +13,11 @@ Updates/log:
 -Project Begins
 -Begin: YGO Season 0 
 Note: Decks optimized around master rule 1. 
+Finished 
 z0.SD.1999.StarterBox
+WIP
+z0.SD.1999.EXStarterBoxY
+z0.SD.1999.EXStarterBoxK
+z0.SD.2000.EX-RStarterBoxK
+z0.SD.2000.EX-RStarterBoxY
+Note: Very little difference between the EX and EX-R, save for soul exchange and card destruction in the EX-R release.
