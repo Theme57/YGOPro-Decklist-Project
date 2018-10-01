@@ -13,4 +13,4 @@ Updates/log:
 -Project Begins
 -Begin: YGO Season 0 
 Note: Decks optimized around master rule 1. 
-z0.SD.1999.StarterDeck
+z0.SD.1999.StarterBox
