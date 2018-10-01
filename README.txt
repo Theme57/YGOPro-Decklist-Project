@@ -12,4 +12,5 @@ Updates/log:
 10.01.2018
 -Project Begins
 -Begin: YGO Season 0 
-Will begin with the structure decks
+Note: Decks optimized around master rule 1. 
+z0.SD.1999.StarterDeck
