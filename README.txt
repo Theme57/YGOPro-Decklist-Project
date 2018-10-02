@@ -24,6 +24,6 @@ z0.SD.1999.StarterBox
 z0.SD.1999.EXStarterBoxY
 z0.SD.1999.EXStarterBoxK
 WIP
-z0.SD.2000.EX-RStarterBoxK
-z0.SD.2000.EX-RStarterBoxY
+z1.SD.2000.EX-RStarterBoxK
+z1.SD.2000.EX-RStarterBoxY
 Note: Only difference between the EX and EX-R decks is the addition of card destruction and soul exchange. I added both cards to the Kaiba and Yugi EX-R decks. 
