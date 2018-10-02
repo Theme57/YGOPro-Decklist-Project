@@ -6,8 +6,8 @@ As a disclaimer I do not own nor am I affiliated with Konami, Toei Animation, or
 
 Finished and Optimized Decks
 z0.SD.1999.StarterBox
-z0.SD.1999.EXStarterBoxY
-z0.SD.1999.EXStarterBoxK
+z0.SD.1999.EX.Yugi
+z0.SD.1999.EX.Kaiba
 Note: Only difference between the EX and EX-R decks is the addition of card destruction and soul exchange. I added both cards to the Kaiba and Yugi EX-R decks. 
 
 Updates/log:
@@ -21,9 +21,9 @@ Updates/log:
 Note: Decks optimized around master rule 1. 
 Finished 
 z0.SD.1999.StarterBox
-z0.SD.1999.EXStarterBoxY
-z0.SD.1999.EXStarterBoxK
+z0.SD.1999.EX.Yugi
+z0.SD.1999.EX.Kaiba
 WIP
-z1.SD.2000.EX-RStarterBoxK
-z1.SD.2000.EX-RStarterBoxY
+z1.SD.2000.EX-R.Kaiba
+z1.SD.2000.EX-R.Yugi
 Note: Only difference between the EX and EX-R decks is the addition of card destruction and soul exchange. I added both cards to the Kaiba and Yugi EX-R decks. 
