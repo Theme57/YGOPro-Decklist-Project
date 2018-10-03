@@ -16,6 +16,9 @@ Limitations
 
 As a disclaimer I do not own nor am I affiliated with Konami, Bandai, or the people behind YGOPro. I am simply a passionate fan who wishes to lessen the hassle of decks reflecting the various mediums Yu-Gi-Oh! has been produced in. Please support official Yu-Gi-Oh! content.
 
+Important Notes
+Pilot and DK decks have the Duelist Kingdom card, if you do not wish to play by those rules please put it into the side deck or refuse the prompt.
+
 Finished and Optimized Decks
 z0.SD.1999.StarterBox
 z0.SD.1999.EX.Yugi
