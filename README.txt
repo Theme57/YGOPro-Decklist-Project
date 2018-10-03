@@ -32,6 +32,14 @@ Updates/log:
 10.07.2018
 -Post made on reddit and YGOPro forums
 
+10.03.2018
+WIP
+z1.DM1.DK.Joey-Jonouchi
+z1.DM1.DK.Yami-DarkYugi
+z1.DM1.DK.Tea-Anzu
+z1.DM1.DK.Weevil-Haga
+z1.DM1.DK.Rex-Ryuzaki
+
 10.02.2018
 Finished
 z1.SD.2000.EX-R.Kaiba
