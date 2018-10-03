@@ -36,6 +36,7 @@ Updates/log:
 -Post made on reddit and YGOPro forums
 
 10.03.2018
+Currently on episode 5
 WIP
 z1.DM1.DK.Joey-Jonouchi
 z1.DM1.DK.Yami-DarkYugi
