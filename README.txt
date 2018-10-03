@@ -8,12 +8,23 @@ Finished and Optimized Decks
 z0.SD.1999.StarterBox
 z0.SD.1999.EX.Yugi
 z0.SD.1999.EX.Kaiba
+z1.SD.2000.EX-R.Kaiba
+z1.SD.2000.EX-R.Yugi
 Note: Only difference between the EX and EX-R decks is the addition of card destruction and soul exchange. I added both cards to the Kaiba and Yugi EX-R decks. 
+
 
 Updates/log:
 
 10.07.2018
 -Post made on reddit and YGOPro forums
+
+10.02.2018
+Finished
+z1.SD.2000.EX-R.Kaiba
+z1.SD.2000.EX-R.Yugi
+Note: Due to major difference in cards and game mechanics between Season 0 and the main series the three starter decks will be the only decks made for that part.
+-Beginning Season 1: Duelist Kingdom
+
 
 10.01.2018
 -Project Begins
