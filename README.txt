@@ -11,7 +11,9 @@ z0.SD.1999.EX.Kaiba
 z1.SD.2000.EX-R.Kaiba
 z1.SD.2000.EX-R.Yugi
 Note: Only difference between the EX and EX-R decks is the addition of card destruction and soul exchange. I added both cards to the Kaiba and Yugi EX-R decks. 
-
+z1.DM1.Pilot.Kaiba
+z1.DM1.Pilot.Solomon-Sugoroku
+Note: I chose Pilot as the season name despite the first episode being part of the DK arc. Also while Yugi faces Kaiba on screen he is in fact using Solomon's deck. 
 
 Updates/log:
 
@@ -24,7 +26,13 @@ z1.SD.2000.EX-R.Kaiba
 z1.SD.2000.EX-R.Yugi
 Note: Due to major difference in cards and game mechanics between Season 0 and the main series the three starter decks will be the only decks made for that part.
 -Beginning Season 1: Duelist Kingdom
-
+Finished
+z1.DM1.Pilot.Kaiba
+z1.DM1.Pilot.Solomon-Sugoroku
+Note: I chose Pilot as the season name despite the first episode being part of the DK arc. Also while Yugi faces Kaiba on screen he is in fact using Solomon's deck. 
+WIP
+z1.DM1.DK.Joey-Jonouchi
+z1.DM1.DK.Yami-DarkYugi
 
 10.01.2018
 -Project Begins
