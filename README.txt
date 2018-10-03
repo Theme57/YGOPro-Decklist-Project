@@ -39,6 +39,7 @@ z1.DM1.DK.Yami-DarkYugi
 z1.DM1.DK.Tea-Anzu
 z1.DM1.DK.Weevil-Haga
 z1.DM1.DK.Rex-Ryuzaki
+z1.DM1.DK.Pegasus
 
 10.02.2018
 Finished
