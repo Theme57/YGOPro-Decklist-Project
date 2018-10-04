@@ -51,6 +51,7 @@ z1.DM1.DK.Joey-Jonouchi
 z1.DM1.DK.Yami-DarkYugi
 z1.DM1.DK.Tea-Anzu
 z1.DM1.DK.Pegasus
+z1.DM1.DK.PaniK-PlayerKillerOfDarkness
 
 10.02.2018
 Finished
