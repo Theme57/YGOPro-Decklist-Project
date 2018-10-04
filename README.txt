@@ -44,7 +44,7 @@ Updates/log:
 -Post made on reddit and YGOPro forums
 
 10.04.2018
-Next episode: 
+Next episode: 26
 Finished
 z1.DM1.DK.ParadoxBros-LabyrinthBros
 z1.DM1.DK.Tea-Anzu
