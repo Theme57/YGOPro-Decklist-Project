@@ -29,6 +29,7 @@ Note: Only difference between the EX and EX-R decks is the addition of card dest
 z1.DM1.Pilot.Kaiba
 z1.DM1.Pilot.Solomon-Sugoroku
 Note: I chose Pilot as the season name despite the first episode being part of the DK arc. Also while Yugi faces Kaiba on screen he is in fact using Solomon's deck. Also these decks and all decks until the battle city arc will require the duelist kingdom card mod 
+z1.DM1.DK.Weevil-Haga
 
 Updates/log:
 
