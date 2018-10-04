@@ -33,6 +33,7 @@ z1.DM1.DK.Weevil-Haga
 z1.DM1.DK.Mako-Kajiki
 z1.DM1.DK.GhostKaiba-ImitatorOfDeath
 z1.DM1.DK.Rex-Ryuzaki
+z1.DM1.DK.PaniK-PlayerKillerOfDarkness
 
 Updates/log:
 
@@ -46,12 +47,13 @@ z1.DM1.DK.Weevil-Haga
 z1.DM1.DK.Mako-Kajiki
 z1.DM1.DK.GhostKaiba-ImitatorOfDeath
 z1.DM1.DK.Rex-Ryuzaki
+z1.DM1.DK.PaniK-PlayerKillerOfDarkness
 WIP
 z1.DM1.DK.Joey-Jonouchi
 z1.DM1.DK.Yami-DarkYugi
 z1.DM1.DK.Tea-Anzu
 z1.DM1.DK.Pegasus
-z1.DM1.DK.PaniK-PlayerKillerOfDarkness
+
 
 10.02.2018
 Finished
