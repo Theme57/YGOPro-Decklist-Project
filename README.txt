@@ -37,11 +37,12 @@ Updates/log:
 
 10.03.2018
 Currently on episode 5
+Finished
+z1.DM1.DK.Weevil-Haga
 WIP
 z1.DM1.DK.Joey-Jonouchi
 z1.DM1.DK.Yami-DarkYugi
 z1.DM1.DK.Tea-Anzu
-z1.DM1.DK.Weevil-Haga
 z1.DM1.DK.Rex-Ryuzaki
 z1.DM1.DK.Pegasus
 
