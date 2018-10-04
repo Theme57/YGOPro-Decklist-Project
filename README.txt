@@ -42,7 +42,7 @@ Updates/log:
 -Post made on reddit and YGOPro forums
 
 10.03.2018
-Next episode: 
+Next episode: 19
 Finished
 z1.DM1.DK.Weevil-Haga
 z1.DM1.DK.Mako-Kajiki
