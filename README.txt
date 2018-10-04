@@ -31,6 +31,7 @@ z1.DM1.Pilot.Solomon-Sugoroku
 Note: I chose Pilot as the season name despite the first episode being part of the DK arc. Also while Yugi faces Kaiba on screen he is in fact using Solomon's deck. Also these decks and all decks until the battle city arc will require the duelist kingdom card mod 
 z1.DM1.DK.Weevil-Haga
 z1.DM1.DK.Mako-Kajiki
+z1.DM1.DK.GhostKaiba-ImitatorOfDeath
 
 Updates/log:
 
@@ -42,6 +43,8 @@ Next episode:
 Finished
 z1.DM1.DK.Weevil-Haga
 z1.DM1.DK.Mako-Kajiki
+z1.DM1.DK.GhostKaiba-ImitatorOfDeath
+
 WIP
 z1.DM1.DK.Joey-Jonouchi
 z1.DM1.DK.Yami-DarkYugi
