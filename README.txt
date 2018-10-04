@@ -32,6 +32,7 @@ Note: I chose Pilot as the season name despite the first episode being part of t
 z1.DM1.DK.Weevil-Haga
 z1.DM1.DK.Mako-Kajiki
 z1.DM1.DK.GhostKaiba-ImitatorOfDeath
+z1.DM1.DK.Rex-Ryuzaki
 
 Updates/log:
 
@@ -44,12 +45,11 @@ Finished
 z1.DM1.DK.Weevil-Haga
 z1.DM1.DK.Mako-Kajiki
 z1.DM1.DK.GhostKaiba-ImitatorOfDeath
-
+z1.DM1.DK.Rex-Ryuzaki
 WIP
 z1.DM1.DK.Joey-Jonouchi
 z1.DM1.DK.Yami-DarkYugi
 z1.DM1.DK.Tea-Anzu
-z1.DM1.DK.Rex-Ryuzaki
 z1.DM1.DK.Pegasus
 
 10.02.2018
