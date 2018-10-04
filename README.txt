@@ -41,6 +41,17 @@ Updates/log:
 10.07.2018
 -Post made on reddit and YGOPro forums
 
+10.04.2018
+Next episode: 
+Finished
+WIP
+z1.DM1.DK.Joey-Jonouchi
+z1.DM1.DK.Yami-DarkYugi
+z1.DM1.DK.Tea-Anzu
+z1.DM1.DK.Pegasus
+z1.DM1.DK.BanditKeith
+z1.DM1.DK.ParadoxBros-LabyrinthBros
+
 10.03.2018
 Next episode: 19
 Finished
