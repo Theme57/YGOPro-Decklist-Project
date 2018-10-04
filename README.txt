@@ -35,6 +35,8 @@ z1.DM1.DK.GhostKaiba-ImitatorOfDeath
 z1.DM1.DK.Rex-Ryuzaki
 z1.DM1.DK.PaniK-PlayerKillerOfDarkness
 z1.DM1.DK.Bonz-Kotsuzuka
+z1.DM1.DK.ParadoxBros-LabyrinthBros
+z1.DM1.DK.Tea-Anzu
 
 Updates/log:
 
@@ -44,13 +46,15 @@ Updates/log:
 10.04.2018
 Next episode: 
 Finished
+z1.DM1.DK.ParadoxBros-LabyrinthBros
+z1.DM1.DK.Tea-Anzu
 WIP
 z1.DM1.DK.Joey-Jonouchi
 z1.DM1.DK.Yami-DarkYugi
-z1.DM1.DK.Tea-Anzu
 z1.DM1.DK.Pegasus
 z1.DM1.DK.BanditKeith
 z1.DM1.DK.ParadoxBros-LabyrinthBros
+z1.DM1.DK.Kaiba
 
 10.03.2018
 Next episode: 19
