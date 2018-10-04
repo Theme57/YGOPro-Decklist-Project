@@ -34,6 +34,7 @@ z1.DM1.DK.Mako-Kajiki
 z1.DM1.DK.GhostKaiba-ImitatorOfDeath
 z1.DM1.DK.Rex-Ryuzaki
 z1.DM1.DK.PaniK-PlayerKillerOfDarkness
+z1.DM1.DK.Bonz-Kotsuzuka
 
 Updates/log:
 
@@ -48,11 +49,14 @@ z1.DM1.DK.Mako-Kajiki
 z1.DM1.DK.GhostKaiba-ImitatorOfDeath
 z1.DM1.DK.Rex-Ryuzaki
 z1.DM1.DK.PaniK-PlayerKillerOfDarkness
+z1.DM1.DK.Bonz-Kotsuzuka
 WIP
 z1.DM1.DK.Joey-Jonouchi
 z1.DM1.DK.Yami-DarkYugi
 z1.DM1.DK.Tea-Anzu
 z1.DM1.DK.Pegasus
+z1.DM1.DK.BanditKeith
+z1.DM1.DK.ParadoxBros-LabyrinthBros
 
 
 10.02.2018
