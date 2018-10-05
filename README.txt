@@ -53,9 +53,7 @@ Updates/log:
 -Post made on reddit and YGOPro forums
 
 10.05.2018
-Finishing Season 1 Structure Decks
-WIP
-
+Next episode: 50
 
 10.04.2018
 Next episode: 50
