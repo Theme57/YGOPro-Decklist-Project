@@ -18,7 +18,7 @@ Limitations
 As a disclaimer I do not own nor am I affiliated with Konami, Bandai, or the people behind YGOPro. I am simply a passionate fan who wishes to lessen the hassle of decks used by characters in the various mediums Yu-Gi-Oh! has been produced in. Please support official Yu-Gi-Oh! content.
 
 Important Notes
-Pilot and DK decks have the Duelist Kingdom card, if you do not wish to play by those rules please put it into the side deck or refuse the prompt. You may opt out by refusing the prompt. If both decks have the card in it and you don't want effect damage to be doubled due to stacking please have 1 person place it in the side deck. 
+Pilot and DK decks have the Duelist Kingdom card, if you do not wish to play by those rules please put it into the side deck or refuse the prompt. You may opt out by refusing the prompt. If you do want to play and both decks have the Duelist Kingdom card have decline the first prompt and then accept the second, only one should be active. 
 
 Finished and Optimized Decks
 z0.SD.1999.StarterBox
@@ -42,14 +42,21 @@ z1.DM1.DK.Kaiba
 z1.DM1.DK.Mai
 z1.DM1.DK.Joey-Jonouchi
 z1.DM1.DK.BanditKeith
+z1.DM1.DK.Yami-DarkYugi
+z1.DM1.DK.Pegasus
+z1.DM1.DCS.Rebecca
 
 Updates/log:
 
 10.07.2018
 -Post made on reddit and YGOPro forums
 
+10.05.2018
+Begin Season 2
+
+
 10.04.2018
-Next episode: 26
+Next episode: 50
 Finished
 z1.DM1.DK.ParadoxBros-LabyrinthBros
 z1.DM1.DK.Tea-Anzu
@@ -57,10 +64,9 @@ z1.DM1.DK.Kaiba
 z1.DM1.DK.Mai
 z1.DM1.DK.Joey-Jonouchi
 z1.DM1.DK.BanditKeith
-WIP
 z1.DM1.DK.Yami-DarkYugi
 z1.DM1.DK.Pegasus
-
+z1.DM1.DCS.Rebecca
 
 10.03.2018
 Next episode: 19
@@ -78,7 +84,6 @@ z1.DM1.DK.Tea-Anzu
 z1.DM1.DK.Pegasus
 z1.DM1.DK.BanditKeith
 z1.DM1.DK.ParadoxBros-LabyrinthBros
-
 
 10.02.2018
 Finished
