@@ -13,6 +13,7 @@ Limitations
 1)	I have yet to try to code cards, not all cards shown in the anime have their respective anime effects in YGOPro. Learning how to code some cards to be like their anime counterpart may be outside of abilities at this time, but would be possible if someone volunteered. 
 2)	While the project in of itself is not overly difficult [save for optimizing decks] it still requires commitment and time. I will do my best to see this project through and through.
 3)	I have no affiliation or am part of any mod team within the YGOPro community; I am simply a passionate fan. As such, I have no control if YGOPro changes cards or Konami pulls something like Nintendo did with emulation websites. Most of what I can do are bound within the limits of the program, servers and my coding abilities.
+4)  Some decks during the Duelist Kingdom arc are completely unplayable if you don't use the Duelist Kingdom card (ruleset). No way around it. I can only do so much with what's given when characters are only shown using 5 or so cards during the entire arc or even series.
 
 As a disclaimer I do not own nor am I affiliated with Konami, Bandai, or the people behind YGOPro. I am simply a passionate fan who wishes to lessen the hassle of decks used by characters in the various mediums Yu-Gi-Oh! has been produced in. Please support official Yu-Gi-Oh! content.
 
@@ -38,6 +39,9 @@ z1.DM1.DK.Bonz-Kotsuzuka
 z1.DM1.DK.ParadoxBros-LabyrinthBros
 z1.DM1.DK.Tea-Anzu
 z1.DM1.DK.Kaiba
+z1.DM1.DK.Mai
+z1.DM1.DK.Joey-Jonouchi
+z1.DM1.DK.BanditKeith
 
 Updates/log:
 
@@ -50,13 +54,13 @@ Finished
 z1.DM1.DK.ParadoxBros-LabyrinthBros
 z1.DM1.DK.Tea-Anzu
 z1.DM1.DK.Kaiba
-WIP
+z1.DM1.DK.Mai
 z1.DM1.DK.Joey-Jonouchi
+z1.DM1.DK.BanditKeith
+WIP
 z1.DM1.DK.Yami-DarkYugi
 z1.DM1.DK.Pegasus
-z1.DM1.DK.BanditKeith
-z1.DM1.DK.ParadoxBros-LabyrinthBros
-z1.DM1.DK.Mai
+
 
 10.03.2018
 Next episode: 19
