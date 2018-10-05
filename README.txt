@@ -8,7 +8,7 @@ The rules I’ve set for myself are the following
 3)	Deck size will be between 40 – 45 cards to keep some semblance of consistency and reduce the chance of bricking if the deck is shuffled. Decks explicitly mentioned to have more than this amount may exceed the 45 cards. 
 4)	To further avoid bricking, decks will be organized in an optimal way to reflect strategies and play styles used/seen by characters; players must select the ‘do not shuffle deck’ option similar to Duel Generations (non-mobile) story mode decks [only better]. 
 5)	If a deck is short the minimum card limit then cards available and/or commonly used cards during that era will be added. IE, a Joey deck is short 5 cards and Red-Eyes support was available at the time, but not used in the deck then I would add the appropriate cards. Same if a deck is short a few cards, I would add generic anime staples such as in DM where most decks use pot of greed, graceful charity and monster reborn. 
-6)	I will be organizing the decks via the following. z[chronologic series number/era].[abbreviation of series name (DM for Duel Monsters), MV for movie, MG for manga, and SD for Structure/Starter Deck][chronological number].[abbreviation of season title or year the structure/starter deck was released].[Primary English Name]-[Primary Japanese Name]. While somewhat complex it will keep everything in proper order and avoid having battle city decks show up before duelist kingdom ones. 
+6)	I will be organizing the decks via the following. z[chronologic series number/era].[abbreviation of series name (DM for Duel Monsters), MV for movie, MG for manga, and SD for Structure/Starter Deck][chronological number].[abbreviation of season title or JP (Japan)/NA (North America) the structure/starter deck was released].[Primary English Name]-[Primary Japanese Name]. While somewhat complex it will keep everything in proper order and avoid having battle city decks show up before duelist kingdom ones. 
 Limitations
 1)	I have yet to try to code cards, not all cards shown in the anime have their respective anime effects in YGOPro. Learning how to code some cards to be like their anime counterpart may be outside of abilities at this time, but would be possible if someone volunteered. 
 2)	While the project in of itself is not overly difficult [save for optimizing decks] it still requires commitment and time. I will do my best to see this project through and through.
@@ -22,10 +22,10 @@ Pilot and DK decks have the Duelist Kingdom card, if you do not wish to play by 
 
 Finished and Optimized Decks
 z0.SD.1999.StarterBox
-z0.SD.1999.EX.Yugi
-z0.SD.1999.EX.Kaiba
-z1.SD.2000.EX-R.Kaiba
-z1.SD.2000.EX-R.Yugi
+z0.SD.1999.JP.EX-Yugi
+z0.SD.1999.JP.EX-Kaiba
+z1.SD.2000.JP.EX-R-Kaiba
+z1.SD.2000.JP.EX-R-Yugi
 Note: Only difference between the EX and EX-R decks is the addition of card destruction and soul exchange. I added both cards to the Kaiba and Yugi EX-R decks.
 z1.DM1.Pilot.Kaiba
 z1.DM1.Pilot.Solomon-Sugoroku
@@ -52,7 +52,8 @@ Updates/log:
 -Post made on reddit and YGOPro forums
 
 10.05.2018
-Begin Season 2
+Finishing Season 1 Structure Decks
+WIP
 
 
 10.04.2018
